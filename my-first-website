@@ -5,18 +5,21 @@
   </head>
   <body>
     <h1>My First Webpage</h1>
-    <h2>Written with a little guidance from Moringa School</h2>
+    <h2>Written with a little guidance from <em>Moringa School</em></h2>
 
 
     <p>Hello, world!</p>
-    <p>Welcome to my first webpage!</p>
+    <p>Welcome to <strong>my first webpage</strong>!</p>
 
-    <p>here are some things I'm gooing to learn about coding:</p>
-    <ol>
+    <p>here are some things I'm going to learn about coding:</p>
+    <ul>
       <li>HTML</li>
       <li>CSS</li>
       <li>JavaScript</li>
       <li>And a lot more!</li>
-    </ol>
+    </ul>
   </body>
+  <p>Check out <a href="http://moringaschool.com/">Moringa School</a>. It's a great place to learn web development skills!</p>
+  <p>Here is a link to my <a href="favourite-things.html">favorite things</a>.</p>
+  <img src="bat.jpg" alt="A photo of a bat">
 </html>
